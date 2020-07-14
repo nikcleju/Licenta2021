@@ -1,0 +1,4 @@
+# Idei licenta
+
+
+De completat
