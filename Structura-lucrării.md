@@ -1,12 +1,14 @@
 
 # Lucrarea de licență
 
+Exemplul de mai jos se refera la o lucrare cu specific de rețele neurale, dar principiul este același pentru toate.
+
 ## Structura lucrării
 
 Structura de mai jos nu e nicidecum obligatorie, ci mai degrabă 
 o sugestie.
 
-1. Introducere / Motivația alegerii temei: 1-2 pag., generalități
+1. Introducere / Motivația alegerii temei (Memoriu justificativ) : 1-2 pag., generalități
 
 2. Noțiuni țeoretice: 15-20 pagini
     * Cuprinde tot ce înseamnă teorie (rețele neurale, etc)
