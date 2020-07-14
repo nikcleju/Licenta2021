@@ -1,6 +1,6 @@
 # Resurse 
 
-## Referințe cu specific de rețele neuraleȘ
+## Referințe cu specific de rețele neurale
 
 * **Referinta nr.1:** Cursuri video dedicate pentru procesarea de imagini/video (Curs Stanford CS231): [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
     - Cursurile video pe Youtube sunt aici: [http://cs231n.stanford.edu/2019/](http://cs231n.stanford.edu/2019/) sau aici [https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
